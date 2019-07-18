@@ -16,22 +16,22 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
 <div >
 
 <div align='center'>
-    <img src="Thesis_results\readme\images\1.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\2.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\3.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\4.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\5.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\6.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\7.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\8.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\9.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\10.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\11.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\12.jpg" width="33%" />W
-    <img src="Thesis_results\readme\images\13.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\14.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\15.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\16.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\1.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\2.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\3.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\4.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\5.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\6.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\7.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\8.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\9.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\10.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\11.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\12.jpg" width="33%" />W
+    <img src="Thesis_results\readme\image\13.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\14.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\15.jpg" width="33%" />
+    <img src="Thesis_results\readme\image\16.jpg" width="33%" />
 </div>
   
 
