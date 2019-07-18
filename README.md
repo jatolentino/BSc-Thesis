@@ -27,11 +27,13 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
     <img src="Thesis_results\readme\image\9.jpg" width="33%" />
     <img src="Thesis_results\readme\image\10.jpg" width="33%" />
     <img src="Thesis_results\readme\image\11.jpg" width="33%" />
-    <img src="Thesis_results\readme\image\12.jpg" width="33%" />W
+    <img src="Thesis_results\readme\image\12.jpg" width="33%" />
     <img src="Thesis_results\readme\image\13.jpg" width="33%" />
     <img src="Thesis_results\readme\image\14.jpg" width="33%" />
     <img src="Thesis_results\readme\image\15.jpg" width="33%" />
-    <img src="Thesis_results\readme\image\16.jpg" width="33%" />
+<div>
+<div align='center'>
+    <img src="Thesis_results\readme\image\16.jpg" width="100%" />
 </div>
   
 
