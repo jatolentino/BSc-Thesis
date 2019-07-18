@@ -36,21 +36,21 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
   
 
 
-![image](Thesis_results\readme\page_241.jpg)
-![image](Thesis_results\readme\page_242.jpg)
-![image](Thesis_results\readme\page_243.jpg)
-![image](Thesis_results\readme\page_244.jpg)
-![image](Thesis_results\readme\page_245.jpg)
-![image](Thesis_results\readme\page_246.jpg)
-![image](Thesis_results\readme\page_247.jpg)
-![image](Thesis_results\readme\page_248.jpg)
-![image](Thesis_results\readme\page_249.jpg)
-![image](Thesis_results\readme\page_250.jpg)
-![image](Thesis_results\readme\page_251.jpg)
-![image](Thesis_results\readme\page_252.jpg)
-![image](Thesis_results\readme\page_253.jpg)
-![image](Thesis_results\readme\page_254.jpg)
-![image](Thesis_results\readme\page_255.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_241.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_242.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_243.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_244.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_245.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_246.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_247.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_248.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_249.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_250.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_251.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_252.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_253.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_254.jpg)
+![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_255.jpg)
 
 </div>
 
