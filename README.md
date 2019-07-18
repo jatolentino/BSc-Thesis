@@ -2,6 +2,8 @@
 
 > English title: Design, and Implementation of a Control Strategy for Non-linear Models Applied to an Industrial Process in a Multi-Tank System, Based on a Genetic Algorithm
 
+![Read the thesis here](https://jatolentino.github.io/BSc-Thesis/)
+
 <div align='center'>
 
 
@@ -25,7 +27,7 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
     <img src="Thesis_results\readme\images\9.jpg" width="33%" />
     <img src="Thesis_results\readme\images\10.jpg" width="33%" />
     <img src="Thesis_results\readme\images\11.jpg" width="33%" />
-    <img src="Thesis_results\readme\images\12.jpg" width="33%" />
+    <img src="Thesis_results\readme\images\12.jpg" width="33%" />W
     <img src="Thesis_results\readme\images\13.jpg" width="33%" />
     <img src="Thesis_results\readme\images\14.jpg" width="33%" />
     <img src="Thesis_results\readme\images\15.jpg" width="33%" />
@@ -33,6 +35,22 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
 </div>
   
 
+
+![image](Thesis_results\readme\page_241.jpg)
+![image](Thesis_results\readme\page_242.jpg)
+![image](Thesis_results\readme\page_243.jpg)
+![image](Thesis_results\readme\page_244.jpg)
+![image](Thesis_results\readme\page_245.jpg)
+![image](Thesis_results\readme\page_246.jpg)
+![image](Thesis_results\readme\page_247.jpg)
+![image](Thesis_results\readme\page_248.jpg)
+![image](Thesis_results\readme\page_249.jpg)
+![image](Thesis_results\readme\page_250.jpg)
+![image](Thesis_results\readme\page_251.jpg)
+![image](Thesis_results\readme\page_252.jpg)
+![image](Thesis_results\readme\page_253.jpg)
+![image](Thesis_results\readme\page_254.jpg)
+![image](Thesis_results\readme\page_255.jpg)
 
 </div>
 
