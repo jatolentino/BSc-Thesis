@@ -2,7 +2,7 @@
 
 > English title: Design, and Implementation of a Control Strategy for Non-linear Models Applied to an Industrial Process in a Multi-Tank System, Based on a Genetic Algorithm
 
-[Read the thesis here](https://jatolentino.github.io/BSc-Thesis/)
+[Read the FULL thesis here](https://jatolentino.github.io/BSc-Thesis/)
 
 <div align='center'>
 
