@@ -13,7 +13,7 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
 
 
 
-<div >
+
 
 <div align='center'>
     <img src="Thesis_results\readme\image\1.jpg" width="33%" />
@@ -31,12 +31,12 @@ https://github.com/jatolentino/Genetic-Algorithm-application/assets/61167951/e31
     <img src="Thesis_results\readme\image\13.jpg" width="33%" />
     <img src="Thesis_results\readme\image\14.jpg" width="33%" />
     <img src="Thesis_results\readme\image\15.jpg" width="33%" />
-<div>
+</div>
 <div align='center'>
     <img src="Thesis_results\readme\image\16.jpg" width="100%" />
 </div>
   
-
+<div align='center'>
 
 ![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_241.jpg)
 ![image](https://github.com/jatolentino/BSc-Thesis/blob/main/Thesis_results/readme/page_242.jpg)
